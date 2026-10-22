@@ -9,6 +9,7 @@ Python 3.12；本地Ollama，qwen3:8b（Q4_K_M）与qwen3-embedding:0.6b（Q8_0�
 ```
 ollama pull qwen3:8b
 ollama pull qwen3-embedding:0.6b
+python restore_corpus.py
 python 第三步知识库/scripts/build_index.py
 python -m streamlit run 第三步知识库/app.py --server.address 127.0.0.1 --browser.gatherUsageStats false
 ```
@@ -18,6 +19,8 @@ python -m streamlit run 第三步知识库/app.py --server.address 127.0.0.1 --b
 ## 材料与预处理
 
 年报来源.json提供15家公司的交易所或巨潮资讯公告页面及原文件名。进入对应公告下载年度报告全文，按source_file命名放在年报原文目录。公告入口不保证是PDF直链，不能直接将网页HTML保存为PDF。无需在仓库发布原始PDF。
+
+语料以 `第二步材料处理/复核修订版/chunks.jsonl.gz` 无损压缩保存，以适配网页上传限制。先在仓库根目录执行 `python restore_corpus.py`，脚本将恢复 `chunks.jsonl` 并验证 SHA-256；只需 Python 标准库，无需额外依赖。
 
 本版本附复核后的9564块语料及60条核心财务指标，可复建索引与复现问答；并非从零自动完成全部人工核验的流水线。预处理采用约800字符、120字符重叠，保留公司/章节/页码，低质量页作版面修复，60条指标与PDF核对。完整原始预处理过程留存在作业本地材料中。
 
