@@ -1,0 +1,107 @@
+[
+  {
+    "stock_code": "000333",
+    "company": "美的集团",
+    "year": 2025,
+    "source_file": "000333_美的集团_2025年年度报告.PDF",
+    "source_url": "https://www.szse.cn/disclosure/listed/bulletinDetail/index.html?f668bba0-3c9e-45a9-a99e-3924fa710818"
+  },
+  {
+    "stock_code": "000521",
+    "company": "长虹美菱",
+    "year": 2025,
+    "source_file": "000521_长虹美菱_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=gssz0000521&stockCode=000521&announcementId=1225077806&announcementTime=2026-04-03"
+  },
+  {
+    "stock_code": "000651",
+    "company": "格力电器",
+    "year": 2025,
+    "source_file": "000651_格力电器_2025年年度报告.PDF",
+    "source_url": "https://www.szse.cn/disclosure/listed/bulletinDetail/index.html?073709c5-c0bf-4d8f-803d-d88af2e25a18"
+  },
+  {
+    "stock_code": "000921",
+    "company": "海信家电",
+    "year": 2025,
+    "source_file": "000921_海信家电_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=gssz0000921&stockCode=000921&announcementId=1225050277&announcementTime=2026-03-31"
+  },
+  {
+    "stock_code": "002032",
+    "company": "苏泊尔",
+    "year": 2025,
+    "source_file": "002032_苏泊尔_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=gssz0002032&stockCode=002032&announcementId=1225076804&announcementTime=2026-04-03"
+  },
+  {
+    "stock_code": "002035",
+    "company": "华帝股份",
+    "year": 2025,
+    "source_file": "002035_华帝股份_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=gssz0002035&stockCode=002035&announcementId=1225216787&announcementTime=2026-04-28"
+  },
+  {
+    "stock_code": "002242",
+    "company": "九阳股份",
+    "year": 2025,
+    "source_file": "002242_九阳股份_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=9900004732&stockCode=002242&announcementId=1225036494&announcementTime=2026-03-27"
+  },
+  {
+    "stock_code": "002508",
+    "company": "老板电器",
+    "year": 2025,
+    "source_file": "002508_老板电器_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=9900015938&stockCode=002508&announcementId=1225237757&announcementTime=2026-04-29"
+  },
+  {
+    "stock_code": "002705",
+    "company": "新宝股份",
+    "year": 2025,
+    "source_file": "002705_新宝股份_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=9900023005&stockCode=002705&announcementId=1225226404&announcementTime=2026-04-29"
+  },
+  {
+    "stock_code": "002959",
+    "company": "小熊电器",
+    "year": 2025,
+    "source_file": "002959_小熊电器_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=szse&orgId=9900037093&stockCode=002959&announcementId=1225085711&announcementTime=2026-04-09"
+  },
+  {
+    "stock_code": "600060",
+    "company": "海信视像",
+    "year": 2025,
+    "source_file": "600060_海信视像_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=sse&orgId=gssh0600060&stockCode=600060&announcementId=1225051157&announcementTime=2026-03-31"
+  },
+  {
+    "stock_code": "600690",
+    "company": "海尔智家",
+    "year": 2025,
+    "source_file": "600690_海尔智家_2025年年度报告.pdf",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=sse&orgId=gssh0600690&stockCode=600690&announcementId=1225038336&announcementTime=2026-03-27"
+  },
+  {
+    "stock_code": "600839",
+    "company": "四川长虹",
+    "year": 2025,
+    "source_file": "600839_四川长虹_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=sse&orgId=gssh0600839&stockCode=600839&announcementId=1225186694&announcementTime=2026-04-25"
+  },
+  {
+    "stock_code": "603486",
+    "company": "科沃斯",
+    "year": 2025,
+    "source_file": "603486_科沃斯_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=sse&orgId=GD134549&stockCode=603486&announcementId=1225188666&announcementTime=2026-04-25"
+  },
+  {
+    "stock_code": "688169",
+    "company": "石头科技",
+    "year": 2025,
+    "source_file": "688169_石头科技_2025年年度报告.PDF",
+    "source_url": "https://www.cninfo.com.cn/new/disclosure/detail?plate=sse&orgId=9900039123&stockCode=688169&announcementId=1225147552&announcementTime=2026-04-23"
+  }
+]
